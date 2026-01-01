@@ -1,0 +1,2 @@
+# No dependencies! Just bash and your questionable environment variables.
+# If you don't have bash, you have bigger problems than missing env vars.
